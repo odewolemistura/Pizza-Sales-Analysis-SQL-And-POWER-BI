@@ -42,7 +42,7 @@ The dataset contains one year of order data with the following columns:
 ## Data Cleaning and Preparation
 
 1. Run SQL scripts in SQL Server to calculate KPIs and prepare clean tables.
-2. get data and transform in power query to ensure clean data before loading into Power BI
+2. Get data and transform in power query to ensure clean data before loading into Power BI
 3. Use DAX to calculate new columns and measure
 4. Use Power BI visuals to interact with trends, filters, and categories.
 
