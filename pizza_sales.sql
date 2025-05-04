@@ -1,4 +1,14 @@
 select * from pizza_sales
+	
+--Data cleaning
+UPDATE pizza_sales 
+SET pizza_size = CASE 
+	WHEN pizza_size = 'M' THEN 'Medium'
+	WHEN pizza_size = 'L' THEN 'Large'
+	WHEN pizza_size = 'S' THEN 'Regular'
+	WHEN pizza_size ='XL' THEN 'X-large'
+ ELSE 'XX-large'
+END;
 
 --calculating the total revenue
 SELECT sum(total_price) As Total_revenue FROM pizza_sales
