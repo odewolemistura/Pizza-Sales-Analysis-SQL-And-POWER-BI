@@ -73,22 +73,22 @@ The dataset contains one year of order data with the following columns:
     ##  Analysis Findings
 
 - **Sales Peaks & Patterns**:
-  - Sales peaked in **[insert month]**, lowest in **[insert month]**.
-  - Revenue followed a consistent trend with visible spikes on **weekends/public holidays**.
+  - Sales peaked in **[July]**, lowest in **[September]**.
+  - Revenue followed a quite consistent trend on weekdays with visible spikes on **weekends**.
 
 - **Best Performers**:
-  -  **[Pizza Name]** was the highest-grossing pizza.
-  -  **[Pizza Name]** sold the most in quantity.
-  - Most frequently ordered: **[Pizza Name]**.
+  -  **[Thai chicken]** was the highest-grossing pizza.
+  -  **[classic deluxe]** sold the most in quantity.
+  - Most frequently ordered: **[classic deluxe]**.
 
 - **Pizza Size & Category**:
-  - **Medium size** pizzas were most popular (customer sweet spot).
+  - **Large size** pizzas were most popular (customer sweet spot).
   - **Classic** category dominated overall sales and revenue.
 
 - **Customer Behavior**:
-  - Average order value: **₦X**
-  - Average number of pizzas per order: **X**
-  - Most orders occurred between **[11 AM – 2 PM]** and **[6 PM – 9 PM]**
+  - Average order value: **$817.86k**
+  - Average number of pizzas per order: **2.32 (2)**
+  - Most orders occurred in the **evening**
 
 ## Business Recommendations
 
