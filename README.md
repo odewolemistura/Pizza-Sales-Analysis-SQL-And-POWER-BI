@@ -55,7 +55,7 @@ The dataset contains one year of order data with the following columns:
 
 ## Visuals & Dashboards (Power BI)
 
-
+![image alt](https://github.com/odewolemistura/Pizza-Sales-Analysis-SQL-And-POWER-BI/blob/e15353799e2ad077c4216ed82eb69e5c7efa66c5/Dashboard%201.png)
 - **Time-Based Trends**:
   - Daily Trend of Total Orders
   - Monthly Trend of Total Orders
