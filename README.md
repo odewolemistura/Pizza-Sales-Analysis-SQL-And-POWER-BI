@@ -55,6 +55,9 @@ The dataset contains one year of order data with the following columns:
 
 ## Visuals & Dashboards (Power BI)
 
+![image alt]()
+![image alt]()
+
 - **Time-Based Trends**:
   - Daily Trend of Total Orders
   - Monthly Trend of Total Orders
