@@ -54,6 +54,7 @@ The dataset contains one year of order data with the following columns:
 - **Average Pizzas per Order**
 
 ## Visuals & Dashboards (Power BI)
+[![image alt]](https://github.com/odewolemistura/Pizza-Sales-Analysis-SQL-And-POWER-BI/blob/d3320f13ce37818e6f0e1a2ffc9730836395bd4d/Dashboard%201.jpg.lnk)
 
 - **Time-Based Trends**:
   - Daily Trend of Total Orders
